@@ -4,6 +4,9 @@ Hi Friends 👋
 
 I'm Created a Nft selling site using React Js and thirdweb,
 First I created mine own Nfts using thirdweb!
+
+You can also see mine own Nfts [On](https://testnets.opensea.io/0x7b917033ca74630f6eca03ec2ec77376cb5666b7)
+
 Then I craeted the website using React Js and take data from OpenSea api.
 
 # Modern Design! 🔥🔥🔥
